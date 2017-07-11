@@ -12,7 +12,7 @@ class BaseTuleapAction(Action):
 
     def __init__(self, config):
         super(BaseTuleapAction, self).__init__(config=config)
-        requests.packages.urllib3.disable_warnings()
+        requests.packages.urllib3.disable_warnings()  # pylint: disable=no-member
         self.response = None
         self.connection = Connection()
 
