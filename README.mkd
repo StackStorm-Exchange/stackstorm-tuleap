@@ -12,6 +12,7 @@ Pack which allows integration with your [Tuleap](https://www.tuleap.org/).
 
 * ``create_artifact`` - Create a new artifact.
 * ``create_artifacts`` - Create new artifacts.
+* ``create_project`` - Create a new project.
 * ``get_artifacts `` - Retrieve information about Tuleap tracker artifacts.
 * ``get_git_repositories`` - Retrieve information about Tuleap project git repositories.
 * ``get_milestones`` - Retrieve information about Tuleap project milestones.
