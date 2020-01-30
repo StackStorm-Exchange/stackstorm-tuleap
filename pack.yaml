@@ -14,3 +14,6 @@ email: stackstorm-pack@enalean.com
 contributors:
   - Humbert Moreaux <moreaux.humbert@gmail.com>
   - Yannis Rossetto <yannis.rossetto@enalean.com>
+python_versions:
+  - "2"
+  - "3"
