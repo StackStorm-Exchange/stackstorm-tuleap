@@ -3,11 +3,11 @@ ref: tuleap
 name: tuleap
 description: A Tuleap StackStorm pack
 keywords:
-    - Tuleap
-    - ALM
-    - Issue tracker
-    - Open source
-    - Agile tool
+  - Tuleap
+  - ALM
+  - Issue tracker
+  - Open source
+  - Agile tool
 version: 0.1.2
 author: Enalean
 email: stackstorm-pack@enalean.com
