@@ -1,2 +1,2 @@
 requests>=2.7.0,<3.0
--e git+https://github.com/djurodrljaca/tuleap-rest-api-client.git#egg=tuleap
+-e git+https://github.com/djurodrljaca/tuleap-rest-api-client.git#egg=tuleap-rest-api-client
